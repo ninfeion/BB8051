@@ -1,0 +1,16 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="38" xOffset="0" scrollWidth="584" startPos="851" endPos="851" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_top.v" backupFilePath="" originalFileLastModifTimestamp="1481013655" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="584" startPos="462" endPos="462" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_alu_main.v" backupFilePath="" originalFileLastModifTimestamp="1480858681" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="584" startPos="6" endPos="6" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_decoder.v" backupFilePath="" originalFileLastModifTimestamp="1480857769" />
+            <File firstVisibleLine="21" xOffset="0" scrollWidth="608" startPos="1124" endPos="1124" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_memory_manager.v" backupFilePath="" originalFileLastModifTimestamp="1481039913" />
+            <File firstVisibleLine="47" xOffset="0" scrollWidth="608" startPos="1959" endPos="1946" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_defines.v" backupFilePath="" originalFileLastModifTimestamp="1481029340" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="608" startPos="26" endPos="26" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_sfr_manager.v" backupFilePath="" originalFileLastModifTimestamp="1481029156" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="608" startPos="527" endPos="505" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_b_reg.v" backupFilePath="" originalFileLastModifTimestamp="1481028727" />
+            <File firstVisibleLine="6" xOffset="0" scrollWidth="608" startPos="181" endPos="181" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\BB8051\bb8051_dptr.v" backupFilePath="" originalFileLastModifTimestamp="1481029161" />
+            <File firstVisibleLine="15" xOffset="0" scrollWidth="608" startPos="885" endPos="807" selMode="0" lang="Verilog" encoding="-1" filename="C:\Ninfeion_Git\Soft_Core_8051\v8051_sc.v" backupFilePath="" originalFileLastModifTimestamp="1480172847" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
